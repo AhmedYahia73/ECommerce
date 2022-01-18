@@ -1,0 +1,16 @@
+.borderL{
+    border-right: 1px solid #6c757d;
+    padding-right: 5px;
+}
+.card .card-img-top{
+    height: 200px;
+    border-bottom: 1px solid #96a1aa;
+    border-radius: 5px 5px 10px 10px;
+}
+.linkCard{
+    text-decoration: none !important;
+    color: black;
+}
+.d-flex{
+    flex-wrap: wrap;
+}

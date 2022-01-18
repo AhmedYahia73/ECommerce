@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.myDiv0{
+    margin-bottom: 50px;
+    width: 350px;
+    padding: 60px 25px;
+    border-radius: 10px 0 10px 0;
+    background-color: rgb(176, 208, 218);
+}
+.form-control, .myBtn{
+    margin: 20px 0;
+}
+.myDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}.brand{
+    font-size: 22px;
+    margin-right: 4rem;
+    margin-left: 2rem;
+}
+.navStyle{
+    font-size: 20px;
+    position: relative;
+    margin-right: 2rem;
+}
+.myDivs{
+    position: relative;
+}
+.navStyle .dropdown-toggle{
+    background-color: rgb(8, 189, 32) !important;
+    border-radius: 3px 0 3px 0 !important;
+}
+.d-flex{
+    flex-wrap: wrap;
+}

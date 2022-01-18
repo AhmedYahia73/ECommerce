@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.myDivs{
+    position: relative;
+}
+.formSearch{
+    width: 400px !important;
+}
+.card .card-img-top{
+    height: 200px;
+    border-bottom: 1px solid #96a1aa;
+    border-radius: 5px 5px 10px 10px;
+}
+.borderL{
+    border-right: 1px solid #6c757d;
+    padding-right: 5px;
+}
+.linkCard{
+    text-decoration: none !important;
+    color: black;
+}
+.Top{
+    border-bottom: 1px solid #555 !important;
+}
+.Left{
+    padding: 50px;
+    background-color: #dadada;
+    border-right: 1px solid #555;
+    width: 30vw;
+    height: 300px;
+    position: relative;
+}
+.Left img{
+    max-height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.Divs{
+    background-color: #cecece;
+}
+.comments .comment{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+    border-radius: 5px;
+}
+.comments h4{
+    color: #0984e3;
+}
+.fa-user{
+    font-size: 25px;
+}
+.userImg{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.d-flex{
+    flex-wrap: wrap;
+}

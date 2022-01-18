@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.data{
+    position: absolute;
+    padding: 15px;
+}
+.myDiv0{
+    width: 400px !important;
+    background-color: #dfdfdf !important;
+    border-radius: 5px !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+    padding: 25px 60px 25px  !important;
+}
+.myBtn{
+    font-size: 20px;
+    font-weight: bold;
+}
+h4{
+    font-size: 30px;
+}
+.form-control, .myBtn{
+    margin: 20px 0;
+}
+.d-flex{
+    flex-wrap: wrap;
+}
+.myDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}.brand{
+    font-size: 22px;
+    margin-right: 4rem;
+    margin-left: 2rem;
+}
+.navStyle{
+    font-size: 20px;
+    position: relative;
+    margin-right: 2rem;
+}
+.myDivs{
+    position: relative;
+}
+.navStyle .dropdown-toggle{
+    background-color: rgb(8, 189, 32) !important;
+    border-radius: 3px 0 3px 0 !important;
+}
+.asterisk{
+    position: absolute;
+    right: 20px;
+    top: 7px;
+    color: red;
+    font-size: 30px;
+}

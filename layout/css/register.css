@@ -1,0 +1,13 @@
+.divForm{
+    width: 400px !important;
+    height: 520px !important;
+    background-color: #dfdfdf !important;
+    border-radius: 5px !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+h4{
+    font-size: 30px !important;
+}
+.d-flex{
+    flex-wrap: wrap;
+}

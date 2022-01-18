@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}.brand{
+    font-size: 22px;
+    margin-right: 4rem;
+    margin-left: 2rem;
+}
+.navStyle{
+    font-size: 20px;
+    position: relative;
+    margin-right: 2rem;
+}
+.approveBtn{
+    font-size: 16px !important;
+}
+.myDivs{
+    position: relative;
+}
+.btn{
+    font-size: 14px !important;
+}
+table{
+    box-shadow: 0 3px 10px #ccc;
+}
+.per{
+    top: 0;
+    left: 0;
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.527);
+}
+.chi{
+    width: 40%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+.d-flex{
+    flex-wrap: wrap;
+}
+.re{
+    background-color: red;
+    height: 45px;
+    width: 100%;
+}
+.hide{
+    display: none !important;
+}

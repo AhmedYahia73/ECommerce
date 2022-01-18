@@ -1,0 +1,124 @@
+
+.brand{
+    font-size: 22px;
+    margin-right: 4rem;
+    margin-left: 2rem;
+}
+.navStyle{
+    font-size: 20px;
+    position: relative;
+    margin-right: 2rem;
+}
+.myDivs{
+    position: relative;
+}
+.icon{
+    max-width: 50px;
+}
+.btn{
+    font-size: 14px !important;
+}
+.d-flex{
+    flex-wrap: wrap;
+}
+table .btn{
+    padding: 5px 10px;
+}
+.ulItems{
+    margin: 0;
+    padding: 0;
+}
+.ulItems li{
+    list-style: none;
+    padding: 5px 5px;
+}
+.ulItems li:nth-child(even){
+    background-color: #ccc;
+    border-radius: 3px;
+}
+.ulItems li a{
+    padding: 3px 10px;
+}
+.item{
+    border-bottom: 1px solid #ccc;
+}
+.bgBtn{
+    background-color: #ccc !important;
+}
+.op{
+    background-color: #888;
+    color: white;
+}
+.boxs a{
+    color: white;
+    text-decoration: none;
+}
+.box-1{
+    background-color: #3c40c6;
+    box-shadow: 0 3px 10px #1d1f66;
+}
+.box-2{
+    background-color: #ff3838;
+    box-shadow: 0 3px 10px #791313;
+}
+.box-3{
+    background-color: #ff9f1a;
+    box-shadow: 0 3px 10px #8b560b;
+}
+.box-4{
+    background-color:#485460;
+    box-shadow: 0 3px 10px #252c33;
+}
+.panel-body, .panel-heading{
+    border: 1px solid #ccc;
+    padding: 5px;
+}.panel-heading{
+    background-color: #ddd;
+    border: 1px solid #ccc;
+}.panel-default{
+    box-shadow: 0 3px 10px #ccc;
+    font-size: 20px;
+}
+.ic{
+    font-size: 60px;
+}
+.boxs{
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.boxs p{
+    font-size: 40px !important;
+}
+table{
+    box-shadow: 0 3px 10px #ccc;
+}
+.per{
+    top: 0;
+    left: 0;
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.527);
+}
+.chi{
+    width: 40%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+.re{
+    background-color: red;
+    height: 45px;
+    width: 100%;
+}
+.hide{
+    display: none !important;
+}

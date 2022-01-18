@@ -1,0 +1,28 @@
+.dataHideen{
+    display: none;
+}
+.brand{
+    font-size: 22px;
+    margin-right: 4rem;
+    margin-left: 2rem;
+}
+.navStyle{
+    font-size: 20px;
+    position: relative;
+    margin-right: 2rem;
+}
+.myDivs{
+    position: relative;
+}
+.canvas{
+    height: 90vh !important;
+}
+.formSearch{
+    width: 400px !important;
+}
+.d-flex{
+    flex-wrap: wrap;
+}
+.btn{
+    font-size: 14px !important;
+}
